@@ -1,42 +1,39 @@
-
-
-# 💰 SpendCheck Pro – Secure Expense Tracker
+# SpendCheck Pro – Secure Expense Tracker
 
 SpendCheck Pro is a modern, secure, and user-friendly expense tracking web application designed to help users manage their daily finances with clarity and confidence.
 
-SpendCheck Pro is a **modern, secure, client-side expense tracking web application** built using **HTML, CSS, and JavaScript**.
-It helps users track daily expenses, analyze spending patterns, and generate professional PDF reports — all **without a backend server**.
+SpendCheck Pro is a modern, secure, client-side expense tracking web application built using HTML, CSS, and JavaScript. It helps users track daily expenses, analyze spending patterns, and generate professional PDF reports — all without a backend server.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔐 Authentication
+### Authentication
 
-* Secure **Sign Up & Login**
-* User-specific data storage using **localStorage**
+* Secure Sign Up & Login
+* User-specific data storage using localStorage
 * Automatic session restore
 
-### 🧾 Expense Management
+### Expense Management
 
 * Add, edit, and delete expenses
 * Real-time total calculation
 * Timestamped entries (date & time)
-* Full **edit history logs** for transparency
+* Full edit history logs for transparency
 
-### 📊 Expense Insights
+### Expense Insights
 
 * Expense summary dashboard
 * Running total & last-added expense
-* Filter expenses by **date range**
+* Filter expenses by date range
 
-### 📄 Export & Backup
+### Export & Backup
 
-* Export expenses as a **professional PDF report**
-* Supports **filtered and full reports**
-* Backup data as **JSON file**
+* Export expenses as a professional PDF report
+* Supports filtered and full reports
+* Backup data as JSON file
 
-### 📱 Responsive UI
+### Responsive UI
 
 * Desktop table view
 * Mobile-friendly card layout
@@ -45,50 +42,47 @@ It helps users track daily expenses, analyze spending patterns, and generate pro
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend**: HTML5, CSS3 (Internal CSS)
 * **Logic**: Vanilla JavaScript
 * **Storage**: Browser LocalStorage
 * **Libraries**:
-
   * Font Awesome
   * html2canvas
   * jsPDF
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
-📁 SpendCheck-Pro
+SpendCheck-Pro
  └── index.html   # Complete application (HTML, CSS, JS)
 ```
 
-> This project is fully contained in a **single HTML file** for simplicity and easy deployment.
+> This project is fully contained in a single HTML file for simplicity and easy deployment.
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
-1. Clone the repository
-
+1. **Clone the repository**
 ```bash
 git clone https://github.com/your-username/SpendCheck-Pro.git
 ```
 
-2. Open the project
-
+2. **Open the project**
 ```bash
 cd SpendCheck-Pro
 ```
 
-3. Run the app
-   Just open `index.html` in any modern browser 🌐
+3. **Run the app**
+   Just open `index.html` in any modern browser.
 
 ---
 
-## 📌 Use Cases
+## Use Cases
 
 * Personal finance tracking
 * Student expense management
@@ -97,16 +91,16 @@ cd SpendCheck-Pro
 
 ---
 
-## 🔒 Data Privacy
+## Data Privacy
 
 * No backend server
 * No external database
-* All data stored **locally in the browser**
+* All data stored locally in the browser
 * 100% user-controlled data
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 * Cloud sync (Firebase / Supabase)
 * Charts & analytics dashboard
@@ -116,21 +110,17 @@ cd SpendCheck-Pro
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Sivananthan M**
-🔗 LinkedIn: `@sivananthanm`
+**Sivananthan M** LinkedIn: `@sivananthanm`
 
 ---
 
-## 📜 License
+## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**.  
 Feel free to use, modify, and distribute with attribution.
 
 ---
 
-✨ *Built with a focus on security, simplicity, and user experience.*
-
----
-
+Built with a focus on security, simplicity, and user experience.
